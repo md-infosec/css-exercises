@@ -1,0 +1,13 @@
+.shared-class {
+    font-size: 28px;
+    font-family: "Helvetica" "Times New Roman" sans-serif;
+}
+
+.class-1 {
+    background-color: black;
+    color: white;
+}
+
+.class-2 {
+    background-color: yellow;
+}
