@@ -1,0 +1,20 @@
+p {
+    background-color: coral;
+    font-size: 20px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.larger-text {
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: 700;
+}
